@@ -1,0 +1,11 @@
+import streamlit as st
+
+
+st.set_page_config(page_title="My web page ",pageicon = "-_-", layout ="wide")
+
+#header section---
+st.subhesder("this is a vemding machine")
+st.title("A new way to catch up with snacks ")
+st.write("this page contains all your queries and their problems would be answered by you ! ")
+st.write("if you are new NO WORRIES )
+st.write("[learn the use >](https://www.youtube.com/watch?v=Fy042phZLRg)")
